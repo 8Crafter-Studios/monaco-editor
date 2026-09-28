@@ -1,10 +1,10 @@
 {
-	"name": "monaco-editor",
-	"version": "0.54.0",
+	"name": "@8crafter/monaco-editor",
+	"version": "1.0.0-monaco.0.54.0",
 	"vscodeRef": "484fdf69b8509c1c9370d913b32e9f6d3a68cc99",
 	"private": true,
 	"description": "A browser based code editor",
-	"homepage": "https://github.com/microsoft/monaco-editor",
+	"homepage": "https://github.com/8Crafter-Studios/monaco-editor",
 	"author": "Microsoft Corporation",
 	"license": "MIT",
 	"scripts": {
@@ -33,7 +33,7 @@
 	"module": "./esm/vs/editor/editor.main.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/microsoft/monaco-editor"
+		"url": "https://github.com/8Crafter-Studios/monaco-editor"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.53.2",
